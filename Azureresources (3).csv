@@ -1,0 +1,5 @@
+﻿NAME,TYPE,LOCATION,
+"olyampictokyo","Data factory (V2)","East US"
+"olympic-data-sa","Synapse workspace","Central India"
+"tokyo-olympic-db","Azure Databricks Service","East US"
+"tokyoolyampicdata","Storage account","East US"
